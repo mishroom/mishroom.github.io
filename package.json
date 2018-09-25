@@ -6,7 +6,14 @@
   "scripts": {
     "watch": "gulp watch"
   },
-  "keywords": ["portfolio", "personal", "website", "tech", "coding", "dev"],
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website",
+    "tech",
+    "coding",
+    "dev"
+  ],
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
